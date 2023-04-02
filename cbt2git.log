@@ -1,0 +1,14 @@
+2023-04-03 01:07:44.948516 - Initialized conversion of CBT553
+2023-04-03 01:07:45.039533 - Received CBT.V504.FILE553.PDS from FILE553.XMI 
+2023-04-03 01:07:45.042843 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:07:45.044288 - Found $$README.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/$$README
+2023-04-03 01:07:45.045754 - Found $FAQ.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/$FAQ
+2023-04-03 01:07:45.047055 - Found $INSTALL.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/$INSTALL
+2023-04-03 01:07:45.048210 - Found $SAMPPAS.jcl (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/$SAMPPAS
+2023-04-03 01:07:45.049410 - Found $SAMPSYM.jcl (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/$SAMPSYM
+2023-04-03 01:07:45.050477 - Found @FILE553.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/@FILE553
+2023-04-03 01:07:45.051669 - Found SUBMITC.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/SUBMITC
+2023-04-03 01:07:45.052784 - Found SUBMITCE.rexx (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/SUBMITCE
+2023-04-03 01:07:45.053909 - Found SUBMITCP.txt (text/plain) in CBT.V504.FILE553.PDS, moved to PDS/SUBMITCP
+2023-04-03 01:07:45.060628 - Found ZXMIT.xmi (application/xmit) in CBT.V504.FILE553.PDS
+2023-04-03 01:07:45.067986   - Received RECFM=U data, stored XMIT file as CBT553/ZXMIT.xmi
