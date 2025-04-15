@@ -1,14 +1,14 @@
-2025-04-15 03:28:37.567860 - Received CBT.V508.FILE553.PDS from FILE553.XMI 
-2025-04-15 03:28:37.569434 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:28:37.569799 - Found $$README.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$$README
-2025-04-15 03:28:37.570085 - Found $FAQ.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$FAQ
-2025-04-15 03:28:37.570262 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$INSTALL
-2025-04-15 03:28:37.570422 - Found $SAMPPAS.jcl (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$SAMPPAS
-2025-04-15 03:28:37.570583 - Found $SAMPSYM.jcl (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$SAMPSYM
-2025-04-15 03:28:37.570786 - Found @FILE553.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/@FILE553
-2025-04-15 03:28:37.571266 - Found SUBMITC.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/SUBMITC
-2025-04-15 03:28:37.571564 - Found SUBMITCE.rexx (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/SUBMITCE
-2025-04-15 03:28:37.571864 - Found SUBMITCP.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/SUBMITCP
-2025-04-15 03:28:37.572198 - Found ZXMIT.xmi (application/xmit) in CBT.V508.FILE553.PDS, moved to PDS/ZXMIT.xmi
-2025-04-15 03:28:37.577507 - Received IBMUSER.DAVE.LOAD from ZXMIT.xmi 
-2025-04-15 03:28:37.578152 - Found SUBMITC.bin (application/octet-stream) in IBMUSER.DAVE.LOAD, moved to ZXMIT/SUBMITC
+2025-04-15 22:15:44.390373 - Received CBT.V508.FILE553.PDS from FILE553.XMI 
+2025-04-15 22:15:44.391760 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:15:44.391931 - Found $$README.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$$README
+2025-04-15 22:15:44.392105 - Found $FAQ.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$FAQ
+2025-04-15 22:15:44.392313 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$INSTALL
+2025-04-15 22:15:44.392543 - Found $SAMPPAS.jcl (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$SAMPPAS
+2025-04-15 22:15:44.392730 - Found $SAMPSYM.jcl (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/$SAMPSYM
+2025-04-15 22:15:44.392784 - Found @FILE553.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/@FILE553
+2025-04-15 22:15:44.393404 - Found SUBMITC.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/SUBMITC
+2025-04-15 22:15:44.393710 - Found SUBMITCE.rexx (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/SUBMITCE
+2025-04-15 22:15:44.394018 - Found SUBMITCP.txt (text/plain) in CBT.V508.FILE553.PDS, moved to PDS/SUBMITCP
+2025-04-15 22:15:44.394333 - Found ZXMIT.xmi (application/xmit) in CBT.V508.FILE553.PDS, moved to PDS/ZXMIT.xmi
+2025-04-15 22:15:44.399905 - Received IBMUSER.DAVE.LOAD from ZXMIT.xmi 
+2025-04-15 22:15:44.400608 - Found SUBMITC.bin (application/octet-stream) in IBMUSER.DAVE.LOAD, moved to ZXMIT/SUBMITC
